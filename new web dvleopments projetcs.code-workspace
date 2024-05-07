@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/Kauthar/Desktop/new web dvleopments projetcs"
+		},
+		{
+			"path": "C:/Users/Kauthar/Desktop/Web development projects"
+		},
+		{
+			"path": "C:/Users/Kauthar/Desktop/lectuers"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "C:/Users/Kauthar/Desktop/hotel"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "hotel"
+	}
+}
